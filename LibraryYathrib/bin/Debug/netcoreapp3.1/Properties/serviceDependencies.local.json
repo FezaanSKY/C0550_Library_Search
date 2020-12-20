@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.local",
+      "connectionId": "AuthDbContextConnection"
+    },
+    "mssql2": {
+      "type": "mssql.local",
+      "connectionId": "LibraryYathribContext"
+    },
+    "mssql3": {
+      "type": "mssql.local",
+      "connectionId": "LibraryCatalogueContext"
+    }
+  }
+}
